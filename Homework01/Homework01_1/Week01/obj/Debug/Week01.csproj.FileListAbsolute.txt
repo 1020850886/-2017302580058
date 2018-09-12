@@ -1,0 +1,7 @@
+c:\users\1020850886\source\repos\Week01\Week01\bin\Debug\Week01.exe.config
+c:\users\1020850886\source\repos\Week01\Week01\bin\Debug\Week01.exe
+c:\users\1020850886\source\repos\Week01\Week01\bin\Debug\Week01.pdb
+c:\users\1020850886\source\repos\Week01\Week01\obj\Debug\Week01.csprojAssemblyReference.cache
+c:\users\1020850886\source\repos\Week01\Week01\obj\Debug\Week01.csproj.CoreCompileInputs.cache
+c:\users\1020850886\source\repos\Week01\Week01\obj\Debug\Week01.exe
+c:\users\1020850886\source\repos\Week01\Week01\obj\Debug\Week01.pdb
